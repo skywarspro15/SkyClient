@@ -1,7 +1,7 @@
 # SkyClient
 My own Minecraft Client. All code is open-source.
 
---INSTALLATION--
+#Installation
 For now, I don't have a launcher or an installer yet. But it will be added soon in the next update.
 
 Here's how you install SkyClient into your game. 
@@ -17,15 +17,17 @@ In the versions folder, move SkyClient's folder.
 
 Now you should be good to go.
 
---LAUNCHING SKYCLIENT--
+#Launching SkyClient
 
-=For Tlauncher Users=
+For Tlauncher Users
+
 First, open Tlauncher. 
 And then, click on the versions part, besides on the username part.
 Then, scroll down until you see "Release SkyClient"
 Click on it, and press "Launch the game".
 
-=For Premium Users (Minecraft Launcher)=
+For Premium Users (Minecraft Launcher)
+
 Open the Minecraft Launcher.
 Then, go to the Installations tab.
 And click "New Installation"
