@@ -2,6 +2,7 @@
 Minecraft client with performance in mind. Created by a player who's been playing with a dual-core Celeron with 4 gigs of RAM, SkyClient continues to improve performance while providing tools for creators. 
 
 *Installation
+
 For now, I don't have a launcher or an installer yet. But it will be added soon in the next update.
 
 Here's how you install SkyClient into your game. 
@@ -18,6 +19,7 @@ In the versions folder, move SkyClient's folder.
 Now you should be good to go.
 
 *Launching SkyClient
+
 
 For Tlauncher Users
 
